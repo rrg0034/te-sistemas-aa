@@ -1,5 +1,5 @@
-# Sistema de recomendación de cursos
-Proyecto para el trabajo de enfoque, Sistemas de Aprendizaje Automático.
+# te-sistemas-aa
+Trabajo de Enfoque - Sistemas de Aprendizaje Automático
 
 ## Tecnologías
 - Python
